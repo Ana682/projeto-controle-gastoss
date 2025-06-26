@@ -1,1 +1,1 @@
-# projeto-controle-gastoss
+# Projeto - Controle de Gastos pessoais 
